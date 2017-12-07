@@ -1,0 +1,11 @@
+D:\SisFinanceiro\Componentes\obj\Debug\Componentes.csprojResolveAssemblyReference.cache
+D:\SisFinanceiro\Componentes\bin\Debug\Componentes.dll
+D:\SisFinanceiro\Componentes\bin\Debug\Componentes.pdb
+D:\SisFinanceiro\Componentes\bin\Debug\Negocios.dll
+D:\SisFinanceiro\Componentes\bin\Debug\ObjetoDeTransferenciaDto.dll
+D:\SisFinanceiro\Componentes\bin\Debug\AcessoDados.dll
+D:\SisFinanceiro\Componentes\bin\Debug\Negocios.pdb
+D:\SisFinanceiro\Componentes\bin\Debug\ObjetoDeTransferenciaDto.pdb
+D:\SisFinanceiro\Componentes\bin\Debug\AcessoDados.pdb
+D:\SisFinanceiro\Componentes\obj\Debug\Componentes.dll
+D:\SisFinanceiro\Componentes\obj\Debug\Componentes.pdb

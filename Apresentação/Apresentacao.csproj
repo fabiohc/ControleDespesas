@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06EC8D42-4B51-49D6-BF1B-1AAF47951CEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Apresentação</RootNamespace>
+    <AssemblyName>Apresentação</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcaoDaTela.cs" />
+    <Compile Include="FrmAcpDispesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAcpDispesa.Designer.cs">
+      <DependentUpon>FrmAcpDispesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadBanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadBanco.Designer.cs">
+      <DependentUpon>FrmCadBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadOrigem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadOrigem.Designer.cs">
+      <DependentUpon>FrmCadOrigem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadTipo.Designer.cs">
+      <DependentUpon>FrmCadTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustoDispesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustoDispesa.Designer.cs">
+      <DependentUpon>FrmCustoDispesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEntrada.Designer.cs">
+      <DependentUpon>FrmEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPessoa.Designer.cs">
+      <DependentUpon>FrmPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAcpDispesa.resx">
+      <DependentUpon>FrmAcpDispesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadBanco.resx">
+      <DependentUpon>FrmCadBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadOrigem.resx">
+      <DependentUpon>FrmCadOrigem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadTipo.resx">
+      <DependentUpon>FrmCadTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustoDispesa.resx">
+      <DependentUpon>FrmCustoDispesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEntrada.resx">
+      <DependentUpon>FrmEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPessoa.resx">
+      <DependentUpon>FrmPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Fakes Include="Fakes\Componentes.fakes" />
+    <Fakes Include="Fakes\Utilitarios.cs.fakes" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Enumeradores\Enumeradores.csproj">
+      <Project>{b5312f64-1e62-4d9b-8b7d-7525f780e588}</Project>
+      <Name>Enumeradores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocios\Negocios.csproj">
+      <Project>{080e9485-474c-4455-890e-fd622784d0cf}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoDeTransferenciaDto\ObjetoDeTransferenciaDto.csproj">
+      <Project>{c529f266-ecd2-4418-a58c-3ab7f2335ee9}</Project>
+      <Name>ObjetoDeTransferenciaDto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios.cs\Utilitarios.csproj">
+      <Project>{accef31a-562f-4cbb-a084-d03273284a4c}</Project>
+      <Name>Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

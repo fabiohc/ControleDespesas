@@ -1,0 +1,14 @@
+D:\SisFinanceiro\Enumeradores\bin\Debug\Enumeradores.dll
+D:\SisFinanceiro\Enumeradores\bin\Debug\Enumeradores.pdb
+D:\SisFinanceiro\Enumeradores\bin\Debug\System.Net.Http.dll
+D:\SisFinanceiro\Enumeradores\bin\Debug\System.Net.Http.xml
+D:\SisFinanceiro\Enumeradores\obj\Debug\Enumeradores.csprojResolveAssemblyReference.cache
+D:\SisFinanceiro\Enumeradores\obj\Debug\Enumeradores.dll
+D:\SisFinanceiro\Enumeradores\obj\Debug\Enumeradores.pdb
+D:\Documentos\SisFinanceiroGit\Enumeradores\bin\Debug\Enumeradores.dll
+D:\Documentos\SisFinanceiroGit\Enumeradores\bin\Debug\Enumeradores.pdb
+D:\Documentos\SisFinanceiroGit\Enumeradores\bin\Debug\System.Net.Http.dll
+D:\Documentos\SisFinanceiroGit\Enumeradores\obj\Debug\Enumeradores.csprojResolveAssemblyReference.cache
+D:\Documentos\SisFinanceiroGit\Enumeradores\obj\Debug\Enumeradores.csproj.CoreCompileInputs.cache
+D:\Documentos\SisFinanceiroGit\Enumeradores\obj\Debug\Enumeradores.dll
+D:\Documentos\SisFinanceiroGit\Enumeradores\obj\Debug\Enumeradores.pdb

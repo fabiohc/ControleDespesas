@@ -1,0 +1,14 @@
+D:\SisFinanceiro\Utilitarios.cs\bin\Debug\Utilitarios.dll
+D:\SisFinanceiro\Utilitarios.cs\bin\Debug\Utilitarios.pdb
+D:\SisFinanceiro\Utilitarios.cs\bin\Debug\System.Net.Http.dll
+D:\SisFinanceiro\Utilitarios.cs\bin\Debug\System.Net.Http.xml
+D:\SisFinanceiro\Utilitarios.cs\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+D:\SisFinanceiro\Utilitarios.cs\obj\Debug\Utilitarios.dll
+D:\SisFinanceiro\Utilitarios.cs\obj\Debug\Utilitarios.pdb
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\bin\Debug\Utilitarios.dll
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\bin\Debug\Utilitarios.pdb
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\bin\Debug\System.Net.Http.dll
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\obj\Debug\Utilitarios.dll
+D:\Documentos\SisFinanceiroGit\Utilitarios.cs\obj\Debug\Utilitarios.pdb

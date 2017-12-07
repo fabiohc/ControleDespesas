@@ -1,0 +1,9 @@
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\Mapeadores.dll
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\Mapeadores.pdb
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\AcessoDados.dll
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\Objeto de transferencia DTO.dll
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\AcessoDados.pdb
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\bin\Debug\Objeto de transferencia DTO.pdb
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\obj\Debug\ResolveAssemblyReference.cache
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\obj\Debug\Mapeadores.dll
+D:\SisFinanceiro\SisFinanceiro\Mapeadores\obj\Debug\Mapeadores.pdb
